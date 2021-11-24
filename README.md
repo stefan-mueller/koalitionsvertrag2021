@@ -1,4 +1,4 @@
-# Coalition Agreement 2021–2025: Social Democratic Party of Germany(SPD), Alliance 90/The Greens, Free Democratic Party (FDP)
+## Coalition Agreement 2021–2025: Social Democratic Party of Germany(SPD), Alliance 90/The Greens, Free Democratic Party (FDP)
 
 This repository contains the [coalition agreement](https://www.welt.de/bin/Koalitionsvertrag%202021-2025.pdf_bn-235257672.pdf) between the SPD, Green Party, and FDP in the following formats:
 
