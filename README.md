@@ -1,4 +1,4 @@
-# Koalitionsvertrag
+# Koalitionsvertrag 2021 – 2025 zwischen der Sozialdemokratischen Partei Deutschlands (SPD), BÜNDNIS 90 / DIE GRÜNEN und den Freien Demokraten (FDP)
 
 This repository contains the [coalition agreement](https://www.welt.de/bin/Koalitionsvertrag%202021-2025.pdf_bn-235257672.pdf) between the SPD, Green Party, and FDP in the following formats:
 
